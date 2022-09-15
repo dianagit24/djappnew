@@ -27,7 +27,7 @@ SET time_zone = "+00:00";
 --
 -- Estructura de tabla para la tabla `alumno`
 --
-
+DROP TABLE IF EXISTS `alumno`;
 CREATE TABLE `alumno` (
   `id_alumno` int(11) NOT NULL,
   `ap_paterno` varchar(100) CHARACTER SET utf8 COLLATE utf8_spanish_ci NOT NULL,
