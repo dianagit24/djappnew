@@ -18,7 +18,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>Lista de alumnos</title>
+	<title>Lista de alumnos de la materia de laboratorio de despliegue de aplicaciones empresariales</title>
 	<meta charset="utf-8">
 </head>
 <body>
