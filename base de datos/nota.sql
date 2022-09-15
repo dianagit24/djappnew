@@ -51,7 +51,7 @@ INSERT INTO `alumno` (`id_alumno`, `ap_paterno`, `ap_materno`, `nombre`, `ex_par
 --
 -- Estructura de tabla para la tabla `t_usuario`
 --
-
+DROP TABLE IF EXISTS `t_usuario`;
 CREATE TABLE `t_usuario` (
   `id_usuario` int(11) NOT NULL,
   `nombre_usu` varchar(100) NOT NULL,
