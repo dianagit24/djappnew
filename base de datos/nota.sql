@@ -64,7 +64,7 @@ CREATE TABLE `t_usuario` (
 --
 
 INSERT INTO `t_usuario` (`id_usuario`, `nombre_usu`, `password_usu`, `estado`) VALUES
-(1, 'roy', '123', b'0'),
+(1, 'jazmin', '123', b'0'),
 (2, 'angel', '456', b'0');
 
 --
