@@ -25,7 +25,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `productos`
 --
-
+DROP TABLE IF EXISTS `productos`;
 CREATE TABLE IF NOT EXISTS `productos` (
   `no` int(11) NOT NULL AUTO_INCREMENT,
   `id_producto` varchar(20) COLLATE utf8_spanish2_ci NOT NULL,
